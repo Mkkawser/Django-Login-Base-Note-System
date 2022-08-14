@@ -27,4 +27,4 @@ An example of Django project with basic user functionality.
 
 ```
 git clone https://github.com/Mkkawser/Django-Login-Base-Note-System.git
-cd simple-django-login-and-register
+cd Django-Login-Base-Note-System
